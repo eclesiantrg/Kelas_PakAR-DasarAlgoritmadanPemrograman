@@ -1,6 +1,6 @@
 # Nama : Eclesia Ollevia Putri Maura Natarang (24110310018)
 # Prodi : Bisnis Digital 2A
-
+### untuk screenshot aplikasi, sudah ada sama seperti file proyeknya
 # 📦 Tugas 2 – Dokumentasi Teknis Inventori Toko
 
 ## 1. Struktur File & Fungsi
