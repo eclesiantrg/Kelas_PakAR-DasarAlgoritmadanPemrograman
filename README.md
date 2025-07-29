@@ -1,4 +1,4 @@
-# Nama : Muhamad Asy Shawal Zahri (24110310052)
+# Nama : Eclesia Ollevia Putri Maura Natarang (24110310018)
 # Prodi : Bisnis Digital 2A
 
 # 📦 Tugas 2 – Dokumentasi Teknis Inventori Toko
